@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-09-15T14:29:52.607462600Z</date>
+  <millis>1694788192607</millis>
+  <nanos>462600</nanos>
+  <sequence>0</sequence>
+  <logger>CoffeeOrderBoard</logger>
+  <level>INFO</level>
+  <class>coffeOrder.CoffeeOrderBoard</class>
+  <method>addOrder</method>
+  <thread>1</thread>
+  <message>Order 1 added for Alen</message>
+</record>
+<record>
+  <date>2023-09-15T14:29:52.685481500Z</date>
+  <millis>1694788192685</millis>
+  <nanos>481500</nanos>
+  <sequence>1</sequence>
+  <logger>CoffeeOrderBoard</logger>
+  <level>INFO</level>
+  <class>coffeOrder.CoffeeOrderBoard</class>
+  <method>addOrder</method>
+  <thread>1</thread>
+  <message>Order 2 added for Tomas</message>
+</record>
+<record>
+  <date>2023-09-15T14:29:52.686481600Z</date>
+  <millis>1694788192686</millis>
+  <nanos>481600</nanos>
+  <sequence>2</sequence>
+  <logger>CoffeeOrderBoard</logger>
+  <level>INFO</level>
+  <class>coffeOrder.CoffeeOrderBoard</class>
+  <method>addOrder</method>
+  <thread>1</thread>
+  <message>Order 3 added for Make</message>
+</record>
+<record>
+  <date>2023-09-15T14:29:52.688483200Z</date>
+  <millis>1694788192688</millis>
+  <nanos>483200</nanos>
+  <sequence>3</sequence>
+  <logger>CoffeeOrderBoard</logger>
+  <level>INFO</level>
+  <class>coffeOrder.CoffeeOrderBoard</class>
+  <method>addOrder</method>
+  <thread>1</thread>
+  <message>Order 4 added for Ross</message>
+</record>
+<record>
+  <date>2023-09-15T14:29:52.689482200Z</date>
+  <millis>1694788192689</millis>
+  <nanos>482200</nanos>
+  <sequence>4</sequence>
+  <logger>CoffeeOrderBoard</logger>
+  <level>INFO</level>
+  <class>coffeOrder.CoffeeOrderBoard</class>
+  <method>addOrder</method>
+  <thread>1</thread>
+  <message>Order 5 added for Mary</message>
+</record>
+<record>
+  <date>2023-09-15T14:29:52.692481500Z</date>
+  <millis>1694788192692</millis>
+  <nanos>481500</nanos>
+  <sequence>5</sequence>
+  <logger>CoffeeOrderBoard</logger>
+  <level>INFO</level>
+  <class>coffeOrder.CoffeeOrderBoard</class>
+  <method>deliver</method>
+  <thread>1</thread>
+  <message>Delivered order 1 for Alen</message>
+</record>
+<record>
+  <date>2023-09-15T14:29:52.693481700Z</date>
+  <millis>1694788192693</millis>
+  <nanos>481700</nanos>
+  <sequence>6</sequence>
+  <logger>CoffeeOrderBoard</logger>
+  <level>INFO</level>
+  <class>coffeOrder.CoffeeOrderBoard</class>
+  <method>deliverN</method>
+  <thread>1</thread>
+  <message>Delivered order 4 for Ross</message>
+</record>
+<record>
+  <date>2023-09-15T14:29:52.695484900Z</date>
+  <millis>1694788192695</millis>
+  <nanos>484900</nanos>
+  <sequence>7</sequence>
+  <logger>CoffeeOrderBoard</logger>
+  <level>INFO</level>
+  <class>coffeOrder.CoffeeOrderBoard</class>
+  <method>addOrder</method>
+  <thread>1</thread>
+  <message>Order 6 added for Tonny</message>
+</record>
+</log>
